@@ -1,0 +1,22 @@
+* text=auto eol=lf
+
+*.java text
+*.py text
+*.yml text
+*.yaml text
+*.json text
+*.gradle text
+*.properties text
+*.md text
+*.bat text
+*.sh text
+
+*.jar binary
+*.bin binary
+*.pt binary
+*.whl binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

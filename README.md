@@ -1,2 +1,6 @@
-# X4yrAC-Tutorial
-Туториал по подключению своей модели для X4yrAC
+---
+sdk: docker
+app_port: 7860
+---
+
+MLSAC inference API. POST `/` with `{"inputs": {"data": "<base64>"}}`.

@@ -1,0 +1,9 @@
+{
+  "seq_len": 40,
+  "n_features": 8,
+  "feature_names": [
+    "delta_yaw", "delta_pitch", "accel_yaw", "accel_pitch",
+    "jerk_yaw", "jerk_pitch", "gcd_error_yaw", "gcd_error_pitch"
+  ],
+  "model_type": "mlsac_anticheat"
+}
